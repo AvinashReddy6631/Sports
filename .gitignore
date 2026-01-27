@@ -1,0 +1,4 @@
+*.zip
+*.vsix
+node_modules/
+.env
